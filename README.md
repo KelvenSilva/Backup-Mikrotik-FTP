@@ -37,4 +37,4 @@ a regra abaixo e cole no new terminal.
 system scheduler add name=backup-ftp interval=7d on-event=backup-ftp
 ```
 
-https://youtu.be/IT1Ly8LMiso
+❤️ https://youtu.be/IT1Ly8LMiso
